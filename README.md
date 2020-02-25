@@ -11,4 +11,5 @@ $ git commit -m "first commit"
 $ git remove -v
 ## upload
 $ git remote add original http://github.com/yaxing0zhao/repository-name.git
+##
 $ git push -u original master
